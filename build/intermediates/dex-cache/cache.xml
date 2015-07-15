@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\JATIN\Downloads\quotes\quotes\libs\android-support-v4.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5896b0a4e377ac4242eb2bc785220c1c4fc052f4">
+        <dex dex="C:\Users\JATIN\Downloads\quotes\quotes\build\intermediates\pre-dexed\debug\android-support-v4-04b42b73691c41079552a1736a685688967db90b.jar" />
+    </item>
+
+</items>
